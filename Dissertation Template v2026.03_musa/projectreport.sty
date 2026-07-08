@@ -1,0 +1,173 @@
+% ------------------------------------------------------------------------------
+% University of Johannesburg
+% College of Business and Economics
+% School of Consumer Intelligence and Information Systems
+% Department of Applied Information Systems / Centre for Applied Data Science
+% Project Report Template style file
+%
+% Modified by: 
+%   -   Siyabonga Mhlongo 2024-08
+%   -   University of Johannesburg
+%
+% Original Template by: 
+%   -   Jon Shiach 2019
+%   -   Manchester Metropolitan University
+% ------------------------------------------------------------------------------
+
+\ProvidesPackage{projectreport}
+\NeedsTeXFormat{LaTeX2e}
+
+% ------------------------------------------------------------------------------
+% Packages
+% ------------------------------------------------------------------------------
+\usepackage[utf8]{inputenc}
+\usepackage{graphicx}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{hyperref}
+\usepackage{parskip}
+\usepackage{float}
+\usepackage{booktabs}
+\usepackage{caption}
+\usepackage{blindtext}
+\usepackage[acronym, nopostdot]{glossaries}
+\usepackage{pdfpages}
+\usepackage{comment}
+
+% ------------------------------------------------------------------------------
+% Page setup
+% ------------------------------------------------------------------------------
+\usepackage{geometry} 
+\geometry{a4paper, margin=1in, twoside}
+\usepackage{setspace}
+\doublespacing
+
+% ------------------------------------------------------------------------------
+% Hyperlinks setup (hyperef)
+% ------------------------------------------------------------------------------
+
+\colorlet{mdtRed}{red!50!black}
+
+\hypersetup{pdfpagemode={UseOutlines},
+bookmarksopen=true,
+bookmarksopenlevel=0,
+hypertexnames=false,
+colorlinks=true,% Set to false to disable coloring links
+citecolor=teal,% The color of citations
+linkcolor=mdtRed,% The color of references to document elements (sections, figures, etc)
+urlcolor=mdtRed,% The color of hyperlinks (URLs)
+pdfstartview={FitV},
+unicode,
+breaklinks=true,
+}
+
+% ------------------------------------------------------------------------------
+% Referencing
+% ------------------------------------------------------------------------------
+\usepackage[
+	backend=biber,
+    style=apa,
+    sortcites=true,]{biblatex}
+\addbibresource{references.bib}
+\DeclareNameAlias{sortname}{family-given}
+\setlength\bibitemsep{1em}
+
+% ------------------------------------------------------------------------------
+% Code listings
+% ------------------------------------------------------------------------------
+\usepackage{listings}
+\usepackage{xcolor}
+\lstdefinestyle{matlabcode}{
+	backgroundcolor=\color{gray!10},   
+	commentstyle=\color{green!50!black},
+	keywordstyle=\color{blue},
+	stringstyle=\color{magenta},
+	basicstyle=\linespread{1}\footnotesize\ttfamily,
+	numberstyle=\tiny,
+	breakatwhitespace=false,         
+	breaklines=true,                 
+	captionpos=t,   
+	frame=single,
+	keepspaces=true,         
+	language=matlab,        
+	numbers=none,             
+	numbersep=5pt,                  
+	showspaces=false,                
+	showstringspaces=false,
+	showtabs=false,                  
+	tabsize=2,
+	aboveskip=1em,
+	belowskip=1em,
+	belowcaptionskip=12pt
+}
+
+% ------------------------------------------------------------------------------
+% Headers and footers
+% ------------------------------------------------------------------------------	
+\usepackage{fancyhdr}
+\pagestyle{fancy}   
+\setlength{\headheight}{14.5pt}
+\renewcommand{\headrulewidth}{0.3pt}
+\renewcommand{\chaptermark}[1]{\markboth{\chaptername\ \thechapter.\ #1}{}}
+\renewcommand{\sectionmark}[1]{\markright{\thesection.\ #1}}   
+\fancyhead[LE,RO]{\rightmark}
+\fancyhead[LO,RE]{\leftmark}
+
+% ------------------------------------------------------------------------------
+% Title page
+% ------------------------------------------------------------------------------
+\renewcommand{\maketitle}{
+    \thispagestyle{empty}
+    \begin{center}
+    	\includegraphics[width = 180px]{Images/UJ_RGB_Logo_01.jpg} \par
+        \vspace{1cm}
+    	\textbf{\LARGE \projecttitle} \par
+    	\vspace{1cm}
+        {\normalsize by} \par
+        \vspace{1cm}
+    	\textbf{\LARGE{\name}} \par
+        \vspace{1cm}
+        {\normalsize A dissertation submitted in fulfilment of the requirements of the degree of} \par
+    	\textbf{\Large \degree} \par
+    	{\normalsize in} \par
+    	\textbf{\Large \programme} \par
+        {\normalsize at the} \par
+        {\normalsize College of Business and Economics} \par
+        \textbf{\normalsize UNIVERSITY OF JOHANNESBURG} \par
+    	\vspace{1cm}
+    	\vfill         
+        {\large Supervisor: \supervisor} \par
+        \textbf{\normalsize \submissionyear} \par
+    	%\vspace{1cm}
+    \end{center}
+    
+    \pagenumbering{roman}
+    \setcounter{page}{0}
+}
+
+% ------------------------------------------------------------------------------
+% Theorem environments
+% ------------------------------------------------------------------------------
+\newtheorem{theorem}{Theorem}[chapter]
+\newtheorem{definition}{Definition}[chapter]
+\newtheorem{corollary}{Corollary}[theorem]
+\newtheorem{lemma}[theorem]{Lemma}
+
+\newtheoremstyle{break}%
+    {}{}%
+    {}{}%
+    {\bfseries}{}% % Note that final punctuation is omitted.
+    {\newline}{}
+\theoremstyle{break}
+\newtheorem{example}{Example}[chapter]
+
+% ------------------------------------------------------------------------------
+% Setting up acronym stuff
+% ------------------------------------------------------------------------------
+\renewcommand{\glsnamefont}[1]{\textbf{#1}}
+\setlength\LTleft{0pt}
+\setlength\LTright{0pt}
+\setlength\glsdescwidth{0.9\hsize}
+\loadglsentries[\acronymtype]{acronyms}
+\makeglossaries

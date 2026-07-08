@@ -1,0 +1,176 @@
+% ------------------------------------------------------------------------------
+% Mathematics Project Report Template
+% by Jon Shiach 2019
+% Manchester Metropolitan University
+% ------------------------------------------------------------------------------
+\documentclass[11pt]{report} 
+
+\usepackage{projectreport}
+
+% Define 'keyword' environment if not using elsarticle
+\newenvironment{keyword}{\par\noindent\textbf{Keywords:} }{\par}
+
+
+% ------------------------------------------------------------------------------
+% Enter your details here
+% ------------------------------------------------------------------------------
+\newcommand{\name}{Celumusa H Zulu}
+\newcommand{\degree}{Master of Commerce}
+\newcommand{\programme}{Information Technology Management}
+\newcommand{\projecttitle}{The role of IT leadership in realizing the return on investment of AI coding assistants.} % Research project title as approved by the CBE HDC (case sensitive)
+\newcommand{\supervisor}{Dr. Siyabonga Mhlongo}
+\newcommand{\submissionyear}{2026}
+
+% ------------------------------------------------------------------------------
+% Document
+% ------------------------------------------------------------------------------
+\begin{document}
+	
+\maketitle
+
+% ------------------------------------------------------------------------------
+% Top matter
+% ------------------------------------------------------------------------------
+\chapter*{Abstract}
+\addcontentsline{toc}{chapter}{Abstract}
+\blindtext[1]
+
+
+\chapter*{Background}
+\addcontentsline{toc}{chapter}{Abstract}
+Artificial intelligence (AI) is one of the important structural influencers on productivity growth and competitive advantage today \autocite{Gillespie2025}. As of 2023, generative AI systems have progressed from experimentation to operationalization within organizational processes \autocite{Gillespie2025}. Recent global studies suggest that organizations are investing more in AI with clear expectations of understanding tangible economic gains, cost savings, and performance improvements \autocite{Gillespie2025}. Research on information systems and management has advanced from adoption to value understanding, with a focus on distinguishing organizational value from investment in AI technologies as a function of organizational governance and management capability rather than technological capability \autocite{Hossain2025}.
+
+In software engineering, generative AI tools represent one of the most prominent manifestations of AI-enabled augmentation \autocite{Peng2023}. Providing developers with functionalities such as code suggestions and entire code functions in real time based on context, documentation, and debugging \autocite{Peng2023}.Practical controlled experiments provide conclusive evidence that AI-assisted developers complete software development tasks faster and report increased productivity of about 55.8\% compared with control groups \autocite{Peng2023}. Collaboration between humans and AI systems is a paradigm shift from the traditional concept of automation, in which AI enhances developers' capabilities rather than replacing them with machines \autocite{Peng2023}. Initial performance improvements demonstrated in controlled promising experiments may not necessarily guarantee long-term organizational performance benefits. Empirical studies report considerable variation in the productivity gains from AI-assisted software development tasks across software development teams and organizations.
+
+Both organizational culture and leadership have traditionally been acknowledged as factors that impact the success of technology implementation. In the digital domain, it is the values and norms that foster a culture of experimentation, learning, and data-driven decision-making, as well as a willingness to adopt technological changes. New studies have found that digital culture reinforces the association between human AI competencies and innovation outcomes, suggesting that cultural readiness moderates the performance effects of AI investments \autocite{An2024}. Likewise, the same is true for employee engagement in AI initiatives, ethical governance, and leadership's role in influencing strategic alignment. While the importance of digital culture and leadership is increasingly acknowledged in the AI adoption domain, the current body of research remains dispersed \autocite{An2024}. Most studies analyse AI adoption from a macro-organizational perspective or focus on individual productivity effects, failing to consider the integration of digital culture, leadership, and ROI in software engineering \autocite{Peng2023}. ROI is increasingly becoming the sole rationale for investing in enterprise AI initiatives.
+
+African organizations are accelerating the adoption of AI technologies to address structural inefficiencies and resource limitations. Emerging market organizations have reported high levels of workplace AI experimentation and positive attitudes toward AI productivity \autocite{Gillespie2025}. However, the extant literature also emphasizes the lack of digital skills pipelines, governance maturity, and leadership ability, among other things, as difficulties associated with the adoption of GenAI technologies \autocite{Hughes2026}. In this regard, the importance of organizational culture and leadership cannot be overstated. In the absence of strategic direction, trust, and a learning-oriented culture, the adoption of AI technologies is more inclined toward fragmentation and symbolic adoption than toward creating value. The digital transformation landscape in Africa is a valid environment for exploring the impact of socio-organizational factors on the achievement of returns from AI technologies.
+
+In the context of software engineering in South Africa, it provides a relevant setting for understanding how organizations embrace and use advanced AI tools. Research indicates that AI is emerging as a key factor influencing organizational change and shaping work practices and culture as organizations increasingly embrace AI tools across their business processes and operations \autocite{Murire2024}. There are opportunities and challenges to address to leverage organizational performance through AI adoption and alignment with organizational culture and structure, as indicated by research reviews on AI tool adoption in organizations \autocite{Romeo2025}. Though the adoption of AI technology affects many aspects of the organization's performance positively, like productivity and output, the effect of AI technology on aspects like the organization's culture and employees' morale and engagement is complicated and depends on many factors, as indicated by the study on the impact of AI tools in workplace settings \autocite{Kassa2025}. Studies on the effect of generative AI tools on software engineering have indicated that AI technology positively affects organizations by enhancing productivity in coding and other software engineering activities through employees' adoption of AI tools \autocite{Alenezi2025}.
+
+Leadership and organizational culture play an important role in the interpretation, adoption, and usage of AI technologies by work teams. Research on AI adoption has found that AI-related technology adoption is also dependent on leadership styles that facilitate embedding technology initiatives into organizational culture \autocite{Romeo2025}. Research on the adoption of AI-related technology has also found that the adoption of AI-related technology is dependent on the adoption of the organizational culture that is conducive to the adoption of the technology \autocite{Kassa2025}. Organizational culture research further indicates that cultural factors, specifically norms related to innovation, collaboration, and adaptability, modulate how employees engage with AI tools and integrate them into their work \autocite{Murire2024}. In software engineering teams, where AI coding assistants alter routines and task assignments, leadership and culture therefore likely determine the extent to which AI investments yield returns in productivity, quality, and financial outcomes, making them essential variables in understanding realized returns on investment.
+
+\chapter*{Problem Statement}
+\addcontentsline{toc}{chapter}{Problem Statement}
+Generative AI has shifted its focus from experiment deployment to integrating it into the core knowledge work process. Substantial experimental results show that generative AI can significantly improve the productivity and quality of cognitive work outcomes, especially among lower-performing members, thereby affecting the performance distribution within the organization \autocite{Noy2023}. Field experiment results show that the application of generative AI in the real world can improve the organization's productivity and influence relevant outcomes, such as task completion and retention, indicating that the ROI on generative AI comes from its application within the organization, not the technology itself \autocite{Brynjolfsson2025}. In the software development field, three large-scale field experiments have shown that providing developers with GitHub Copilot can improve task completion and development activities, providing empirical support for the ROI of generative AI in coding assistance \autocite{Cui2026}. Controlled experiment results show that developers using AI coding assistance complete programming tasks more quickly and at a higher rate, providing a business case for AI coding assistance tools based on productivity \autocite{Peng2023}.
+
+Despite these measurable improvements, existing research evidence consistently shows that the performance impact differs across contexts. Research in software engineering has shown that AI-assisted code generation produced by GitHub Copilot improves speed but also creates variability in correctness, maintainability, and review effort; this shows the value to depend on the management and integration of such tools and systems \autocite{MoradiDakhel2023}. Research on AI governance in organizations has argued that to sustain value, organizations must have structured processes and systems to ensure clear accountability and supervisory leadership to transform experimentation into sustained performance improvement \autocite{Maentymaeki2022}. Research on organizational innovation with generative AI has also shown that organizations can obtain different performance impacts depending on whether AI is used for automation or augmentation; this shows the role of strategic leadership and organizational culture in determining the benefits obtained \autocite{Holmstroem2025}. Overall, this existing research evidence shows the role of organizational culture and strategic leadership in determining whether the improvements in productivity due to AI coding assistants can be sustained and converted to measurable return on investment.
+
+The relevance of these mechanisms can be further accentuated in the context of Africa since organizations face structural limitations in skills development, governance, and digital sophistication. An empirical study of AI readiness in Africa identified the level of preparedness and the institutional ability to adopt AI, thus emphasizing the role of organizations in the transition from AI pilot projects to performance results \autocite{Isagah2024}. In the context of South Africa, empirical studies of the financial sector have identified the role of organizational factors such as leadership support and organizational readiness in the adoption of new and emerging technologies, thus emphasizing the relevance of these factors to the achievement of ROI in AI coding assistants in software development teams \autocite{Matsepe2022}. Empirical research carried out within the context of South Africa suggests the use of sociotechnical systems in AI adoption, as well as the importance of change management for the accomplishment of performance outcomes related to AI adoption \autocite{Smit2024}. Another empirical research within the context of South Africa reveals the influence of managerial perceptions regarding AI adoption on the accomplishment of performance outcomes within the context of human resource management as a field of AI application.
+
+Collectively, the global evidence base shows that AI coding assistants can improve productivity, and the organizational evidence base shows that sustained ROI depends on alignment, effective governance, and culture. The evidence from Africa and South Africa also shows that context plays an important role in the success of technology adoption. Therefore, the evidence base provides justification for an in-depth investigation to explore the role of organizational culture and leadership in the achievement of ROI with AI coding assistants in software development teams in South Africa.
+
+\chapter*{Research Objectives}
+%\setcounter{secnumdepth}{0} this removes numbering
+\addcontentsline{toc}{chapter}{Research Objectives}
+
+\section{Main Research Objective}
+\label{sec:Main Research Objective}
+To develop an integrated framework linking financial metrics, organizational culture, and leadership to assess and enhance the return on investment of AI coding assistants in South African software engineering teams.
+\subsection{Sub Research Objectives}
+\label{sec:Sub Research Objectives}
+1. To identify and operationalize the financial costs and benefits that define return on investment for AI coding assistants.\newline
+2. To examine how organizational culture attributes influence productivity and quality outcomes from AI coding assistants. \newline
+3. To assess which leadership practices most strongly affect return on investment outcomes.\newline
+4. To apply and validate an integrated return on investment framework within large South African organizations.\newline
+5. To formulate practical recommendations that enable managers to maximize return on investment through cultural and leadership interventions.
+
+\chapter*{Research Question(s)}
+\addcontentsline{toc}{chapter}{Research Question(s)}
+\section{Main Research Question}
+\label{sec:Main Research Question}
+
+How do organizational culture and leadership shape the return on investment of AI coding assistants in South African software engineering teams?
+
+\subsection{Sub Research Questions}
+\label{sec:Sub Research Questions}
+
+1. What financial costs and benefits define return on investment for AI coding assistants in software engineering teams?\newline
+2. How do organizational culture attributes influence productivity and quality outcomes from AI coding assistants?\newline
+3. Which of the leadership behaviours strongly affect return on investment outcomes from AI coding assistants?\newline
+4. How can financial and organizational factors be integrated into a practical return on investment framework for large South African organizations?\newline
+5. What practical guidance can be offered to managers to maximize returns from AI coding assistance investments through cultural and leadership interventions?
+
+\begin{keyword}
+AI, ROI, GenAi.
+\end{keyword}
+
+\chapter*{Declaration}
+\addcontentsline{toc}{chapter}{Declaration}
+I, {\name}, certify that the dissertation submitted by me for the {\degree} in {\programme} degree at the University of Johannesburg is my independent work and has not been submitted by me for a degree at another university.
+
+\vspace{2cm}
+------------------------------------------ \newline
+{\textsc \name} \newline
+(No signature required)
+
+\chapter*{Dedication}
+\addcontentsline{toc}{chapter}{Dedication}
+\begin{center}
+	To my Mother, \newline
+	who always believe in me, \newline
+	and to all my Siblings\newline
+	who always believe in me\newline
+	
+\end{center}
+
+\chapter*{Acknowledgements}
+\addcontentsline{toc}{chapter}{Acknowledgements}
+First and foremost, infinite gratitude and appreciation to my Creator, 
+Who has given me the will to start studying again and the endurance to see this through in a time when my world was turned on its head. 
+My perseverance, accomplishments and very being are only by Your will.
+
+You are the very foundation my success is built on. 
+
+My deepest gratitude to my Mother, Sister and my brother's as well for always remembering me in your prayers.
+
+My sincerest appreciation to my Supervisor Dr. Siyabonga Mhlongo, who has always been my light through this journey. You got me started on this, thank you for seeing me through to the finish line.
+
+I’d also like to extend my sincerest appreciation to all the people that took their precious time and completed the survey to make this study possible.
+
+\phantomsection
+\tableofcontents
+\markboth{Contents}{}
+\clearpage
+
+\phantomsection
+\addcontentsline{toc}{chapter}{List of Acronyms} %
+\printglossary[title=List of Acronyms,type=\acronymtype,style=long,nonumberlist,toctitle=List of Acronyms]
+\markboth{List of Acronyms}{}
+\clearpage
+
+\phantomsection
+\addcontentsline{toc}{chapter}{List of Figures} %
+\listoffigures
+\clearpage
+
+% ------------------------------------------------------------------------------
+% Main matter
+% Chapters are added to the document using the \include{chapterx} command
+% ------------------------------------------------------------------------------
+\newpage
+\setcounter{page}{0}
+\pagenumbering{arabic}
+\glsresetall
+
+\include{ch1_introduction}
+\include{ch2_literature}
+\include{ch3_methodology}
+\include{ch4_results}
+\include{ch5_discussion}
+\include{ch6_conclusion}
+
+% ------------------------------------------------------------------------------
+% Reference list
+% ------------------------------------------------------------------------------
+\phantomsection
+\addcontentsline{toc}{chapter}{References}
+\renewcommand\bibname{References}
+\printbibliography
+
+% ------------------------------------------------------------------------------
+% Appendices
+% ------------------------------------------------------------------------------
+\include{appendix}
+	
+\end{document}
