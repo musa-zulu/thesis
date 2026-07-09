@@ -19,52 +19,6 @@
 
 \refsection{0}
   \datalist[entry]{apa/apasortcite//global/global/global}
-    \entry{Achuthan2026}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=d4ee04386e1d3c411c3d33814695f08e}{%
-           family={Achuthan},
-           familyi={A\bibinitperiod},
-           given={Krishnashree},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bf6c6e56f5bb75dc3ecaa075d4a51c37}{%
-           family={Khobragade},
-           familyi={K\bibinitperiod},
-           given={Sugandh},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{fullhash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{fullhashraw}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{bibnamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorbibnamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authornamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorfullhash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorfullhashraw}{d38ad2a0d72c24b2d0d445327362029e}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0167-4048}
-      \field{journaltitle}{Computers {\&} Security}
-      \field{month}{6}
-      \field{title}{Cyberattacks, perception, and market impact: Financial and social media dynamics of breach disclosure}
-      \field{volume}{165}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \field{pages}{104862}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.cose.2026.104862
-      \endverb
-    \endentry
     \entry{Alenezi2025}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=557e252124b125045a90f7001cbf8c16}{%
@@ -712,65 +666,6 @@
       \verb 10.4102/sajbm.v53i1.2493
       \endverb
     \endentry
-    \entry{Mhlongo2023}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=c1190d9bee4590bf5eeb54750df0fdc4}{%
-           family={Mhlongo},
-           familyi={M\bibinitperiod},
-           given={Siyabonga},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=13fba290ccad088bfcbecbe33f3e5a17}{%
-           family={Mbatha},
-           familyi={M\bibinitperiod},
-           given={Khanyisile},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e3e844bd581a8241d343ee313a46417e}{%
-           family={Ramatsetse},
-           familyi={R\bibinitperiod},
-           given={Boitumelo},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=66c89a8b36620c43d24c748ab57b1b6d}{%
-           family={Dlamini},
-           familyi={D\bibinitperiod},
-           given={Reuben},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{560a1314145c1b53f7ca8e9331f4ec71}
-      \strng{fullhash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{fullhashraw}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{bibnamehash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authorbibnamehash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authornamehash}{560a1314145c1b53f7ca8e9331f4ec71}
-      \strng{authorfullhash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authorfullhashraw}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2405-8440}
-      \field{journaltitle}{Heliyon}
-      \field{month}{6}
-      \field{number}{6}
-      \field{title}{Challenges, opportunities, and prospects of adopting and using smart digital technologies in learning environments: An iterative review}
-      \field{volume}{9}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{pages}{e16348}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.heliyon.2023.e16348
-      \endverb
-    \endentry
     \entry{MoradiDakhel2023}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=4e76e625bdc4a9ca304cba52901689de}{%
@@ -927,57 +822,6 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1126/science.adh2586
-      \endverb
-    \endentry
-    \entry{Ofusori2024}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=631aef781bcf466fd0a4fe4fa859b5a4}{%
-           family={Ofusori},
-           familyi={O\bibinitperiod},
-           given={Lizzy},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bfc40c837b0d42a3a0b4ad16b578b5ad}{%
-           family={Bokaba},
-           familyi={B\bibinitperiod},
-           given={Tebogo},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1190d9bee4590bf5eeb54750df0fdc4}{%
-           family={Mhlongo},
-           familyi={M\bibinitperiod},
-           given={Siyabonga},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Informa UK Limited}%
-      }
-      \strng{namehash}{777d67548a129d01cc9307cf9cb48dbf}
-      \strng{fullhash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{fullhashraw}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{bibnamehash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authorbibnamehash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authornamehash}{777d67548a129d01cc9307cf9cb48dbf}
-      \strng{authorfullhash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authorfullhashraw}{b0675a0d54e9a0cde52278864f30c809}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1087-6545}
-      \field{journaltitle}{Applied Artificial Intelligence}
-      \field{month}{12}
-      \field{number}{1}
-      \field{title}{Artificial Intelligence in Cybersecurity: A Comprehensive Review and Future Direction}
-      \field{volume}{38}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.1080/08839514.2024.2439609
       \endverb
     \endentry
     \entry{Peng2023}{article}{}{}
@@ -1144,52 +988,6 @@
     \endentry
   \enddatalist
   \datalist[entry]{apa/global//global/global/global}
-    \entry{Achuthan2026}{article}{}{}
-      \name{author}{2}{}{%
-        {{un=0,uniquepart=base,hash=d4ee04386e1d3c411c3d33814695f08e}{%
-           family={Achuthan},
-           familyi={A\bibinitperiod},
-           given={Krishnashree},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bf6c6e56f5bb75dc3ecaa075d4a51c37}{%
-           family={Khobragade},
-           familyi={K\bibinitperiod},
-           given={Sugandh},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{fullhash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{fullhashraw}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{bibnamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorbibnamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authornamehash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorfullhash}{d38ad2a0d72c24b2d0d445327362029e}
-      \strng{authorfullhashraw}{d38ad2a0d72c24b2d0d445327362029e}
-      \field{sortinit}{A}
-      \field{sortinithash}{2f401846e2029bad6b3ecc16d50031e2}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{0167-4048}
-      \field{journaltitle}{Computers {\&} Security}
-      \field{month}{6}
-      \field{title}{Cyberattacks, perception, and market impact: Financial and social media dynamics of breach disclosure}
-      \field{volume}{165}
-      \field{year}{2026}
-      \field{dateera}{ce}
-      \field{pages}{104862}
-      \range{pages}{1}
-      \verb{doi}
-      \verb 10.1016/j.cose.2026.104862
-      \endverb
-    \endentry
     \entry{Alenezi2025}{article}{}{}
       \name{author}{2}{}{%
         {{un=0,uniquepart=base,hash=557e252124b125045a90f7001cbf8c16}{%
@@ -1837,65 +1635,6 @@
       \verb 10.4102/sajbm.v53i1.2493
       \endverb
     \endentry
-    \entry{Mhlongo2023}{article}{}{}
-      \name{author}{4}{}{%
-        {{un=0,uniquepart=base,hash=c1190d9bee4590bf5eeb54750df0fdc4}{%
-           family={Mhlongo},
-           familyi={M\bibinitperiod},
-           given={Siyabonga},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=13fba290ccad088bfcbecbe33f3e5a17}{%
-           family={Mbatha},
-           familyi={M\bibinitperiod},
-           given={Khanyisile},
-           giveni={K\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=e3e844bd581a8241d343ee313a46417e}{%
-           family={Ramatsetse},
-           familyi={R\bibinitperiod},
-           given={Boitumelo},
-           giveni={B\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=66c89a8b36620c43d24c748ab57b1b6d}{%
-           family={Dlamini},
-           familyi={D\bibinitperiod},
-           given={Reuben},
-           giveni={R\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Elsevier BV}%
-      }
-      \strng{namehash}{560a1314145c1b53f7ca8e9331f4ec71}
-      \strng{fullhash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{fullhashraw}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{bibnamehash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authorbibnamehash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authornamehash}{560a1314145c1b53f7ca8e9331f4ec71}
-      \strng{authorfullhash}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \strng{authorfullhashraw}{4c7c3df68fc5b6651e2730d4a31f7f2c}
-      \field{sortinit}{M}
-      \field{sortinithash}{4625c616857f13d17ce56f7d4f97d451}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{2405-8440}
-      \field{journaltitle}{Heliyon}
-      \field{month}{6}
-      \field{number}{6}
-      \field{title}{Challenges, opportunities, and prospects of adopting and using smart digital technologies in learning environments: An iterative review}
-      \field{volume}{9}
-      \field{year}{2023}
-      \field{dateera}{ce}
-      \field{pages}{e16348}
-      \range{pages}{-1}
-      \verb{doi}
-      \verb 10.1016/j.heliyon.2023.e16348
-      \endverb
-    \endentry
     \entry{MoradiDakhel2023}{article}{}{}
       \name{author}{6}{}{%
         {{un=0,uniquepart=base,hash=4e76e625bdc4a9ca304cba52901689de}{%
@@ -2052,57 +1791,6 @@
       \range{pages}{6}
       \verb{doi}
       \verb 10.1126/science.adh2586
-      \endverb
-    \endentry
-    \entry{Ofusori2024}{article}{}{}
-      \name{author}{3}{}{%
-        {{un=0,uniquepart=base,hash=631aef781bcf466fd0a4fe4fa859b5a4}{%
-           family={Ofusori},
-           familyi={O\bibinitperiod},
-           given={Lizzy},
-           giveni={L\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=bfc40c837b0d42a3a0b4ad16b578b5ad}{%
-           family={Bokaba},
-           familyi={B\bibinitperiod},
-           given={Tebogo},
-           giveni={T\bibinitperiod},
-           givenun=0}}%
-        {{un=0,uniquepart=base,hash=c1190d9bee4590bf5eeb54750df0fdc4}{%
-           family={Mhlongo},
-           familyi={M\bibinitperiod},
-           given={Siyabonga},
-           giveni={S\bibinitperiod},
-           givenun=0}}%
-      }
-      \list{publisher}{1}{%
-        {Informa UK Limited}%
-      }
-      \strng{namehash}{777d67548a129d01cc9307cf9cb48dbf}
-      \strng{fullhash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{fullhashraw}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{bibnamehash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authorbibnamehash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authornamehash}{777d67548a129d01cc9307cf9cb48dbf}
-      \strng{authorfullhash}{b0675a0d54e9a0cde52278864f30c809}
-      \strng{authorfullhashraw}{b0675a0d54e9a0cde52278864f30c809}
-      \field{sortinit}{O}
-      \field{sortinithash}{2cd7140a07aea5341f9e2771efe90aae}
-      \field{extradatescope}{labelyear}
-      \field{labeldatesource}{}
-      \true{uniqueprimaryauthor}
-      \field{labelnamesource}{author}
-      \field{labeltitlesource}{title}
-      \field{issn}{1087-6545}
-      \field{journaltitle}{Applied Artificial Intelligence}
-      \field{month}{12}
-      \field{number}{1}
-      \field{title}{Artificial Intelligence in Cybersecurity: A Comprehensive Review and Future Direction}
-      \field{volume}{38}
-      \field{year}{2024}
-      \field{dateera}{ce}
-      \verb{doi}
-      \verb 10.1080/08839514.2024.2439609
       \endverb
     \endentry
     \entry{Peng2023}{article}{}{}
