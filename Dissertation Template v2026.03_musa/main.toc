@@ -9,27 +9,31 @@
 \contentsline {subsection}{\numberline {0.2.1}Sub Research Questions}{viii}{subsection.9}%
 \contentsline {paragraph}{title}{viii}{section*.10}%
 \contentsline {chapter}{Significance/rationale}{ix}{chapter*.11}%
-\contentsline {chapter}{Declaration}{x}{chapter*.12}%
-\contentsline {chapter}{Dedication}{xi}{chapter*.13}%
-\contentsline {chapter}{Acknowledgements}{xii}{chapter*.14}%
-\contentsline {chapter}{List of Acronyms}{xv}{section*.17}%
-\contentsline {chapter}{List of Figures}{xvi}{section*.18}%
-\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.20}%
-\contentsline {section}{\numberline {1.1}Section Heading}{1}{section.21}%
-\contentsline {subsection}{\numberline {1.1.1}Subsection Heading}{2}{subsection.22}%
-\contentsline {subsection}{\numberline {1.1.2}Some maths}{2}{subsection.23}%
-\contentsline {subsection}{\numberline {1.1.3}Theorems, proofs, definitions and examples}{3}{subsection.26}%
-\contentsline {section}{\numberline {1.2}Figures and tables}{3}{section.30}%
-\contentsline {subsection}{\numberline {1.2.1}Program code}{3}{subsection.33}%
-\contentsline {section}{\numberline {1.3}Referencing}{4}{section.47}%
-\contentsline {section}{\numberline {1.4}List of Acronyms}{4}{section.53}%
-\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.54}%
-\contentsline {chapter}{\numberline {3}Research Methodology}{6}{chapter.55}%
-\contentsline {chapter}{\numberline {4}Results}{7}{chapter.56}%
-\contentsline {chapter}{\numberline {5}Discussion}{8}{chapter.57}%
-\contentsline {chapter}{\numberline {6}Conclusion}{9}{chapter.58}%
-\contentsline {chapter}{References}{10}{section*.59}%
-\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{13}{appendix.61}%
-\contentsline {chapter}{\numberline {B}Appendix Chapter}{16}{appendix.62}%
-\contentsline {section}{\numberline {B.1}Appendix section}{16}{section.63}%
-\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{17}{appendix.64}%
+\contentsline {chapter}{Scope/Delimitation}{x}{chapter*.12}%
+\contentsline {chapter}{Delimitation}{xi}{chapter*.13}%
+\contentsline {chapter}{Brief Limitations}{xii}{chapter*.14}%
+\contentsline {chapter}{Key concepts / Definitions}{xiii}{chapter*.15}%
+\contentsline {chapter}{Declaration}{xiv}{chapter*.16}%
+\contentsline {chapter}{Dedication}{xv}{chapter*.17}%
+\contentsline {chapter}{Acknowledgements}{xvi}{chapter*.18}%
+\contentsline {chapter}{List of Acronyms}{xix}{section*.21}%
+\contentsline {chapter}{List of Figures}{xx}{section*.22}%
+\contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.24}%
+\contentsline {section}{\numberline {1.1}Section Heading}{1}{section.25}%
+\contentsline {subsection}{\numberline {1.1.1}Subsection Heading}{2}{subsection.26}%
+\contentsline {subsection}{\numberline {1.1.2}Some maths}{2}{subsection.27}%
+\contentsline {subsection}{\numberline {1.1.3}Theorems, proofs, definitions and examples}{3}{subsection.30}%
+\contentsline {section}{\numberline {1.2}Figures and tables}{3}{section.34}%
+\contentsline {subsection}{\numberline {1.2.1}Program code}{3}{subsection.37}%
+\contentsline {section}{\numberline {1.3}Referencing}{4}{section.51}%
+\contentsline {section}{\numberline {1.4}List of Acronyms}{4}{section.57}%
+\contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.58}%
+\contentsline {chapter}{\numberline {3}Research Methodology}{6}{chapter.59}%
+\contentsline {chapter}{\numberline {4}Results}{7}{chapter.60}%
+\contentsline {chapter}{\numberline {5}Discussion}{8}{chapter.61}%
+\contentsline {chapter}{\numberline {6}Conclusion}{9}{chapter.62}%
+\contentsline {chapter}{References}{10}{section*.63}%
+\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{13}{appendix.65}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter}{16}{appendix.66}%
+\contentsline {section}{\numberline {B.1}Appendix section}{16}{section.67}%
+\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{17}{appendix.68}%

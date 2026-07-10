@@ -165,6 +165,64 @@
       \verb 10.1016/j.jbusres.2024.114786
       \endverb
     \endentry
+    \entry{Babina2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=75ca120cdc0a22c308220ae7c4e57c3c}{%
+           family={Babina},
+           familyi={B\bibinitperiod},
+           given={Tania},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bcac3cd3a5b16c312ee7a7d5ddad835}{%
+           family={Fedyk},
+           familyi={F\bibinitperiod},
+           given={Anastassia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c70bb157c0797697e80651f04053ed}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c26d3a256603cabd31595cd4fa388}{%
+           family={Hodson},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{cbba10b7a4e788ee1f69740907be94b1}
+      \strng{fullhash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{fullhashraw}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{bibnamehash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authorbibnamehash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authornamehash}{cbba10b7a4e788ee1f69740907be94b1}
+      \strng{authorfullhash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authorfullhashraw}{148d1c46647da07eebba3e71ca42bb8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-405X}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{month}{1}
+      \field{title}{Artificial intelligence, firm growth, and product innovation}
+      \field{volume}{151}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{103745}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jfineco.2023.103745
+      \endverb
+    \endentry
     \entry{Brynjolfsson2025}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=7bd9f54569cb8c0301da00ed49b5a752}{%
@@ -284,6 +342,66 @@
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1287/mnsc.2025.00535
+      \endverb
+    \endentry
+    \entry{FossoWamba2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8d235c182cf71df9f98480e76d19e555}{%
+           family={Fosso\bibnamedelima Wamba},
+           familyi={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52bb7d29be75646354cb32c0ad035dd8}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Maciel\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8cd93d3178e5d6e0a2b6dfcf4e5c119}{%
+           family={Pappas},
+           familyi={P\bibinitperiod},
+           given={Ilias\bibnamedelima O.},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b148db3cec3773b5a3d33fe18126fd3}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{c536b374a5390bd8c733af60f34d7d72}
+      \strng{fullhash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{fullhashraw}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{bibnamehash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authorbibnamehash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authornamehash}{c536b374a5390bd8c733af60f34d7d72}
+      \strng{authorfullhash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authorfullhashraw}{7551f3cdfe06ae97e16f91680d718e6b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9419}
+      \field{journaltitle}{Information Systems Frontiers}
+      \field{month}{1}
+      \field{number}{6}
+      \field{title}{Artificial Intelligence Capability and Firm Performance: A Sustainable Development Perspective by the Mediating Role of Data-Driven Culture}
+      \field{volume}{26}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{2189\bibrangedash 2203}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10796-023-10460-z
       \endverb
     \endentry
     \entry{Gillespie2025}{report}{}{}
@@ -1338,6 +1456,64 @@
       \verb 10.1016/j.jbusres.2024.114786
       \endverb
     \endentry
+    \entry{Babina2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=75ca120cdc0a22c308220ae7c4e57c3c}{%
+           family={Babina},
+           familyi={B\bibinitperiod},
+           given={Tania},
+           giveni={T\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=5bcac3cd3a5b16c312ee7a7d5ddad835}{%
+           family={Fedyk},
+           familyi={F\bibinitperiod},
+           given={Anastassia},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=67c70bb157c0797697e80651f04053ed}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Alex},
+           giveni={A\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=ae2c26d3a256603cabd31595cd4fa388}{%
+           family={Hodson},
+           familyi={H\bibinitperiod},
+           given={James},
+           giveni={J\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{1}{%
+        {Elsevier BV}%
+      }
+      \strng{namehash}{cbba10b7a4e788ee1f69740907be94b1}
+      \strng{fullhash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{fullhashraw}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{bibnamehash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authorbibnamehash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authornamehash}{cbba10b7a4e788ee1f69740907be94b1}
+      \strng{authorfullhash}{148d1c46647da07eebba3e71ca42bb8e}
+      \strng{authorfullhashraw}{148d1c46647da07eebba3e71ca42bb8e}
+      \field{sortinit}{B}
+      \field{sortinithash}{d7095fff47cda75ca2589920aae98399}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{0304-405X}
+      \field{journaltitle}{Journal of Financial Economics}
+      \field{month}{1}
+      \field{title}{Artificial intelligence, firm growth, and product innovation}
+      \field{volume}{151}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{103745}
+      \range{pages}{1}
+      \verb{doi}
+      \verb 10.1016/j.jfineco.2023.103745
+      \endverb
+    \endentry
     \entry{Brynjolfsson2025}{article}{}{}
       \name{author}{3}{}{%
         {{un=0,uniquepart=base,hash=7bd9f54569cb8c0301da00ed49b5a752}{%
@@ -1457,6 +1633,66 @@
       \field{dateera}{ce}
       \verb{doi}
       \verb 10.1287/mnsc.2025.00535
+      \endverb
+    \endentry
+    \entry{FossoWamba2024}{article}{}{}
+      \name{author}{4}{}{%
+        {{un=0,uniquepart=base,hash=8d235c182cf71df9f98480e76d19e555}{%
+           family={Fosso\bibnamedelima Wamba},
+           familyi={F\bibinitperiod\bibinitdelim W\bibinitperiod},
+           given={Samuel},
+           giveni={S\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=52bb7d29be75646354cb32c0ad035dd8}{%
+           family={Queiroz},
+           familyi={Q\bibinitperiod},
+           given={Maciel\bibnamedelima M.},
+           giveni={M\bibinitperiod\bibinitdelim M\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=d8cd93d3178e5d6e0a2b6dfcf4e5c119}{%
+           family={Pappas},
+           familyi={P\bibinitperiod},
+           given={Ilias\bibnamedelima O.},
+           giveni={I\bibinitperiod\bibinitdelim O\bibinitperiod},
+           givenun=0}}%
+        {{un=0,uniquepart=base,hash=4b148db3cec3773b5a3d33fe18126fd3}{%
+           family={Sullivan},
+           familyi={S\bibinitperiod},
+           given={Yulia},
+           giveni={Y\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{publisher}{2}{%
+        {Springer Science}%
+        {Business Media LLC}%
+      }
+      \strng{namehash}{c536b374a5390bd8c733af60f34d7d72}
+      \strng{fullhash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{fullhashraw}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{bibnamehash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authorbibnamehash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authornamehash}{c536b374a5390bd8c733af60f34d7d72}
+      \strng{authorfullhash}{7551f3cdfe06ae97e16f91680d718e6b}
+      \strng{authorfullhashraw}{7551f3cdfe06ae97e16f91680d718e6b}
+      \field{sortinit}{F}
+      \field{sortinithash}{2638baaa20439f1b5a8f80c6c08a13b4}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \true{uniqueprimaryauthor}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{issn}{1572-9419}
+      \field{journaltitle}{Information Systems Frontiers}
+      \field{month}{1}
+      \field{number}{6}
+      \field{title}{Artificial Intelligence Capability and Firm Performance: A Sustainable Development Perspective by the Mediating Role of Data-Driven Culture}
+      \field{volume}{26}
+      \field{year}{2024}
+      \field{dateera}{ce}
+      \field{pages}{2189\bibrangedash 2203}
+      \range{pages}{15}
+      \verb{doi}
+      \verb 10.1007/s10796-023-10460-z
       \endverb
     \endentry
     \entry{Gillespie2025}{report}{}{}
