@@ -3121,6 +3121,16 @@
     <bcf:citekey order="39" intorder="3">Murire2024</bcf:citekey>
     <bcf:citekey order="40" intorder="1">Peng2023</bcf:citekey>
     <bcf:citekey order="41" intorder="1">An2024</bcf:citekey>
+    <bcf:citekey order="42" intorder="1">Brynjolfsson2025</bcf:citekey>
+    <bcf:citekey order="43" intorder="1">Noy2023</bcf:citekey>
+    <bcf:citekey order="44" intorder="1">Peng2023</bcf:citekey>
+    <bcf:citekey order="45" intorder="1">Babina2024</bcf:citekey>
+    <bcf:citekey order="46" intorder="1">Hossain2025</bcf:citekey>
+    <bcf:citekey order="46" intorder="2">Murire2024</bcf:citekey>
+    <bcf:citekey order="47" intorder="1">FossoWamba2024</bcf:citekey>
+    <bcf:citekey order="48" intorder="1">An2024</bcf:citekey>
+    <bcf:citekey order="49" intorder="1">Nurlia2023</bcf:citekey>
+    <bcf:citekey order="49" intorder="2">Gillespie2025</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="apa">
