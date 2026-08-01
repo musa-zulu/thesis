@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.2)  10 JUL 2026 20:18
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.2)  1 AUG 2026 11:37
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1098,7 +1098,7 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
 \c@lstlisting=\count534
-<Images/UJ_RGB_Logo_01.jpg, id=159, 426.6339pt x 426.6339pt>
+<Images/UJ_RGB_Logo_01.jpg, id=167, 426.6339pt x 426.6339pt>
 File: Images/UJ_RGB_Logo_01.jpg Graphic file (type jpg)
 <use Images/UJ_RGB_Logo_01.jpg>
 Package pdftex.def Info: Images/UJ_RGB_Logo_01.jpg  used on input line 29.
@@ -1145,7 +1145,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [14
 
 ]
-<Images/TheoreticalFramework.png, id=312, 768.37062pt x 510.90875pt>
+<Images/TheoreticalFramework.png, id=320, 768.37062pt x 510.90875pt>
 File: Images/TheoreticalFramework.png Graphic file (type png)
 <use Images/TheoreticalFramework.png>
 Package pdftex.def Info: Images/TheoreticalFramework.png  used on input line 19
@@ -1196,17 +1196,17 @@ nput line 117.
 
  (ch2_literature.tex
 Chapter 2.
-) [5
+[5
 
 
 
 
-]
+] [6]) [7]
 \openout2 = `ch3_methodology.aux'.
 
  (ch3_methodology.tex
 Chapter 3.
-) [6
+) [8
 
 
 
@@ -1216,7 +1216,7 @@ Chapter 3.
 
  (ch4_results.tex
 Chapter 4.
-) [7
+) [9
 
 
 
@@ -1226,7 +1226,7 @@ Chapter 4.
 
  (ch5_discussion.tex
 Chapter 5.
-) [8
+) [10
 
 
 
@@ -1236,27 +1236,28 @@ Chapter 5.
 
  (ch6_conclusion.tex
 Chapter 6.
-) [9
+) [11
 
 
 
 
-] [10
+] [12
 
 
 
-] [11] [12]
+] [13] [14] [15]
 \openout2 = `appendix.aux'.
 
- (appendix.tex (app1_ethical_clearance_certificate.tex
+ (appendix.tex
+(app1_ethical_clearance_certificate.tex
 Appendix A.
 
 
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=52
-3, 597.55246pt x 845.07718pt>
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=56
+4, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
 <use PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>
@@ -1273,8 +1274,8 @@ most version <1.5> allowed
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=52
-5, page=1, 597.55246pt x 845.07718pt>
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=56
+6, page=1, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
 <use PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, p
@@ -1289,7 +1290,7 @@ age 1>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-[13
+[16
 
 
 ]
@@ -1314,14 +1315,14 @@ age 1>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
- [14
+ [17
 
  <./PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=56
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=60
 0, page=2, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
@@ -1344,16 +1345,16 @@ age 2>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-[15
+[18
 
  <./PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>]) 
 (app2_sample_chapter.tex
 Appendix B.
-) (app3_sample_chapter.tex [16
+) (app3_sample_chapter.tex [19
 
 ]
 Appendix C.
-)) [17
+)) [20
 
 ] (main.aux (ch1_introduction.aux) (ch2_literature.aux)
 (ch3_methodology.aux) (ch4_results.aux) (ch5_discussion.aux)
@@ -1367,21 +1368,20 @@ L3 programming layer <2025-12-24>
 LaTeX Warning: There were undefined references.
 
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 709D56AC4DA0898F1B6D2FEBDF5D832F;5396.
+(rerunfilecheck)             Checksum: D864BFC07CF9CBA70AA83DCF551AF386;5993.
 
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                main
-(biblatex)                and rerun LaTeX afterwards.
+Package biblatex Warning: Please rerun LaTeX.
+(biblatex)                Page breaks have changed.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32483 strings out of 467871
- 610346 string characters out of 5418377
- 1643892 words of memory out of 5000000
- 60819 multiletter control sequences out of 15000+600000
+ 32520 strings out of 467871
+ 611350 string characters out of 5418377
+ 1645219 words of memory out of 5000000
+ 60848 multiletter control sequences out of 15000+600000
  637649 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,18n,104p,2496b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
@@ -1406,9 +1406,9 @@ msfonts/cm/cmti10.pfb><C:/Users/bhuta/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb><C:/Users/bhuta/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/bhuta/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (40 pages, 2845672 bytes).
+Output written on main.pdf (43 pages, 2857446 bytes).
 PDF statistics:
- 672 PDF objects out of 1000 (max. 8388607)
- 136 named destinations out of 1000 (max. 500000)
- 343 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 714 PDF objects out of 1000 (max. 8388607)
+ 144 named destinations out of 1000 (max. 500000)
+ 359 words of extra memory for PDF output out of 10000 (max. 10000000)
 
