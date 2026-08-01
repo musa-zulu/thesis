@@ -40,21 +40,22 @@
 \contentsline {subsection}{\numberline {2.3.4}Reduction in rework costs.}{10}{subsection.70}%
 \contentsline {subsection}{\numberline {2.3.5}Faster time to market.}{10}{subsection.71}%
 \contentsline {subsection}{\numberline {2.3.6}Increased revenues via innovation.}{10}{subsection.72}%
-\contentsline {section}{\numberline {2.4}Organizational Culture as a Mediator of AI Value Realisation.}{13}{section.73}%
-\contentsline {section}{\numberline {2.5}Leadership and AI Governance.}{14}{section.74}%
-\contentsline {subsection}{\numberline {2.5.1}Executive sponsorship.}{14}{subsection.75}%
-\contentsline {subsection}{\numberline {2.5.2}Resource allocation.}{14}{subsection.76}%
-\contentsline {subsection}{\numberline {2.5.3}Metrics alignment.}{15}{subsection.77}%
-\contentsline {subsection}{\numberline {2.5.4}Policy enforcement.}{15}{subsection.78}%
-\contentsline {subsection}{\numberline {2.5.5}Ethical considerations.}{16}{subsection.79}%
-\contentsline {section}{\numberline {2.6}South African Context and Emerging Market Considerations.}{16}{section.80}%
-\contentsline {section}{\numberline {2.7}Synthesis and Research Gap.}{17}{section.81}%
-\contentsline {chapter}{\numberline {3}Research Methodology}{19}{chapter.82}%
-\contentsline {chapter}{\numberline {4}Results}{20}{chapter.83}%
-\contentsline {chapter}{\numberline {5}Discussion}{21}{chapter.84}%
-\contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.85}%
-\contentsline {chapter}{References}{23}{section*.86}%
-\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{27}{appendix.88}%
-\contentsline {chapter}{\numberline {B}Appendix Chapter}{30}{appendix.89}%
-\contentsline {section}{\numberline {B.1}Appendix section}{30}{section.90}%
-\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{31}{appendix.91}%
+\contentsline {subsection}{\numberline {2.3.7}The ideal model for calculating ROI on AI should include: }{11}{subsection.73}%
+\contentsline {section}{\numberline {2.4}Organizational Culture as a Mediator of AI Value Realisation.}{13}{section.74}%
+\contentsline {section}{\numberline {2.5}Leadership and AI Governance.}{14}{section.75}%
+\contentsline {subsection}{\numberline {2.5.1}Executive sponsorship.}{14}{subsection.76}%
+\contentsline {subsection}{\numberline {2.5.2}Resource allocation.}{14}{subsection.77}%
+\contentsline {subsection}{\numberline {2.5.3}Metrics alignment.}{15}{subsection.78}%
+\contentsline {subsection}{\numberline {2.5.4}Policy enforcement.}{15}{subsection.79}%
+\contentsline {subsection}{\numberline {2.5.5}Ethical considerations.}{16}{subsection.80}%
+\contentsline {section}{\numberline {2.6}South African Context and Emerging Market Considerations.}{16}{section.81}%
+\contentsline {section}{\numberline {2.7}Synthesis and Research Gap.}{17}{section.82}%
+\contentsline {chapter}{\numberline {3}Research Methodology}{19}{chapter.83}%
+\contentsline {chapter}{\numberline {4}Results}{20}{chapter.84}%
+\contentsline {chapter}{\numberline {5}Discussion}{21}{chapter.85}%
+\contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.86}%
+\contentsline {chapter}{References}{23}{section*.87}%
+\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{27}{appendix.89}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter}{30}{appendix.90}%
+\contentsline {section}{\numberline {B.1}Appendix section}{30}{section.91}%
+\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{31}{appendix.92}%
