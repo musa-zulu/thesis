@@ -16,8 +16,8 @@
 \contentsline {chapter}{Declaration}{xvi}{chapter*.18}%
 \contentsline {chapter}{Dedication}{xvii}{chapter*.19}%
 \contentsline {chapter}{Acknowledgements}{xviii}{chapter*.20}%
-\contentsline {chapter}{List of Acronyms}{xxi}{section*.23}%
-\contentsline {chapter}{List of Figures}{xxii}{section*.24}%
+\contentsline {chapter}{List of Acronyms}{xxii}{section*.23}%
+\contentsline {chapter}{List of Figures}{xxiii}{section*.24}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.26}%
 \contentsline {section}{\numberline {1.1}Section Heading}{1}{section.27}%
 \contentsline {subsection}{\numberline {1.1.1}Subsection Heading}{2}{subsection.28}%
@@ -30,12 +30,31 @@
 \contentsline {chapter}{\numberline {2}Literature Review}{5}{chapter.60}%
 \contentsline {section}{\numberline {2.1}Introduction}{5}{section.61}%
 \contentsline {section}{\numberline {2.2}Generative AI and Productivity: From Task Performance to Organisational Outcomes}{6}{section.62}%
-\contentsline {chapter}{\numberline {3}Research Methodology}{8}{chapter.63}%
-\contentsline {chapter}{\numberline {4}Results}{9}{chapter.64}%
-\contentsline {chapter}{\numberline {5}Discussion}{10}{chapter.65}%
-\contentsline {chapter}{\numberline {6}Conclusion}{11}{chapter.66}%
-\contentsline {chapter}{References}{12}{section*.67}%
-\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{16}{appendix.69}%
-\contentsline {chapter}{\numberline {B}Appendix Chapter}{19}{appendix.70}%
-\contentsline {section}{\numberline {B.1}Appendix section}{19}{section.71}%
-\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{20}{appendix.72}%
+\contentsline {subsection}{\numberline {2.2.1}Effects on productivity at the task level.}{7}{subsection.63}%
+\contentsline {subsection}{\numberline {2.2.2}Effects on integration and coordination at the workflow level.}{8}{subsection.64}%
+\contentsline {subsection}{\numberline {2.2.3}Effects on the firm's business finance and innovation at the firm level.}{8}{subsection.65}%
+\contentsline {section}{\numberline {2.3}Measuring ROI in AI Contexts: Financial, Operational, and Strategic Dimensions}{9}{section.66}%
+\contentsline {subsection}{\numberline {2.3.1}Time saved translates to reduced labour costs.}{9}{subsection.67}%
+\contentsline {subsection}{\numberline {2.3.2}Increased productivity.}{9}{subsection.68}%
+\contentsline {subsection}{\numberline {2.3.3}Defects reduced.}{10}{subsection.69}%
+\contentsline {subsection}{\numberline {2.3.4}Reduction in rework costs.}{10}{subsection.70}%
+\contentsline {subsection}{\numberline {2.3.5}Faster time to market.}{10}{subsection.71}%
+\contentsline {subsection}{\numberline {2.3.6}Increased revenues via innovation.}{10}{subsection.72}%
+\contentsline {section}{\numberline {2.4}Organizational Culture as a Mediator of AI Value Realisation.}{13}{section.73}%
+\contentsline {section}{\numberline {2.5}Leadership and AI Governance.}{14}{section.74}%
+\contentsline {subsection}{\numberline {2.5.1}Executive sponsorship.}{14}{subsection.75}%
+\contentsline {subsection}{\numberline {2.5.2}Resource allocation.}{14}{subsection.76}%
+\contentsline {subsection}{\numberline {2.5.3}Metrics alignment.}{15}{subsection.77}%
+\contentsline {subsection}{\numberline {2.5.4}Policy enforcement.}{15}{subsection.78}%
+\contentsline {subsection}{\numberline {2.5.5}Ethical considerations.}{16}{subsection.79}%
+\contentsline {section}{\numberline {2.6}South African Context and Emerging Market Considerations.}{16}{section.80}%
+\contentsline {section}{\numberline {2.7}Synthesis and Research Gap.}{17}{section.81}%
+\contentsline {chapter}{\numberline {3}Research Methodology}{19}{chapter.82}%
+\contentsline {chapter}{\numberline {4}Results}{20}{chapter.83}%
+\contentsline {chapter}{\numberline {5}Discussion}{21}{chapter.84}%
+\contentsline {chapter}{\numberline {6}Conclusion}{22}{chapter.85}%
+\contentsline {chapter}{References}{23}{section*.86}%
+\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{27}{appendix.88}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter}{30}{appendix.89}%
+\contentsline {section}{\numberline {B.1}Appendix section}{30}{section.90}%
+\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{31}{appendix.91}%

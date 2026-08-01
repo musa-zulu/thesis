@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.2)  1 AUG 2026 11:37
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.4.2)  1 AUG 2026 12:12
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1098,7 +1098,7 @@ Package biblatex Info: ... file 'main.bbl' found.
 Package biblatex Info: Reference section=0 on input line 27.
 Package biblatex Info: Reference segment=0 on input line 27.
 \c@lstlisting=\count534
-<Images/UJ_RGB_Logo_01.jpg, id=167, 426.6339pt x 426.6339pt>
+<Images/UJ_RGB_Logo_01.jpg, id=179, 426.6339pt x 426.6339pt>
 File: Images/UJ_RGB_Logo_01.jpg Graphic file (type jpg)
 <use Images/UJ_RGB_Logo_01.jpg>
 Package pdftex.def Info: Images/UJ_RGB_Logo_01.jpg  used on input line 29.
@@ -1145,7 +1145,7 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ] [14
 
 ]
-<Images/TheoreticalFramework.png, id=320, 768.37062pt x 510.90875pt>
+<Images/TheoreticalFramework.png, id=332, 768.37062pt x 510.90875pt>
 File: Images/TheoreticalFramework.png Graphic file (type png)
 <use Images/TheoreticalFramework.png>
 Package pdftex.def Info: Images/TheoreticalFramework.png  used on input line 19
@@ -1160,19 +1160,19 @@ Package pdftex.def Info: Images/TheoreticalFramework.png  used on input line 19
 ] (main.toc
 [19
 
-])
+] [20])
 \tf@toc=\write9
 \openout9 = `main.toc'.
 
- [20]
+ [21]
 No file main.acr.
-[21
+[22
 
 ] (main.lof)
 \tf@lof=\write10
 \openout10 = `main.lof'.
 
- [22
+ [23
 
 
 ]
@@ -1201,12 +1201,86 @@ Chapter 2.
 
 
 
-] [6]) [7]
+] [6] [7] [8]
+! Misplaced alignment tab character &.
+l.69 ...promising the quality of the output (Noy &
+                                                   Zhang, 2023). Similar res...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.73 ...verables within a particular period (Noy &
+                                                   Zhang, 2023).
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[9] [10]
+! Misplaced alignment tab character &.
+l.95 ...her than long-term monetary results (Noy &
+                                                   Zhang, 2023).
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.99 ...of the software development process (Noy &
+                                                   Zhang, 2023). The importa...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[11] [12] [13] [14]
+! Misplaced alignment tab character &.
+l.137 ...ut with the organizational process (Noy &
+                                                   Zhang, 2023). In cases wh...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[15] [16]
+! Misplaced alignment tab character &.
+l.163 ...dels boost task-level productivity (Noy &
+                                                   Zhang, 2023). Moreover, A...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+! Misplaced alignment tab character &.
+l.167 ...utputs in a knowledge work setting (Noy &
+                                                   Zhang, 2023). Other studi...
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[17]) [18]
 \openout2 = `ch3_methodology.aux'.
 
  (ch3_methodology.tex
 Chapter 3.
-) [8
+) [19
 
 
 
@@ -1216,7 +1290,7 @@ Chapter 3.
 
  (ch4_results.tex
 Chapter 4.
-) [9
+) [20
 
 
 
@@ -1226,7 +1300,7 @@ Chapter 4.
 
  (ch5_discussion.tex
 Chapter 5.
-) [10
+) [21
 
 
 
@@ -1236,16 +1310,16 @@ Chapter 5.
 
  (ch6_conclusion.tex
 Chapter 6.
-) [11
+) [22
 
 
 
 
-] [12
+] [23
 
 
 
-] [13] [14] [15]
+] [24] [25] [26]
 \openout2 = `appendix.aux'.
 
  (appendix.tex
@@ -1256,8 +1330,8 @@ Appendix A.
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=56
-4, 597.55246pt x 845.07718pt>
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=65
+2, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
 <use PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>
@@ -1274,8 +1348,8 @@ most version <1.5> allowed
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=56
-6, page=1, 597.55246pt x 845.07718pt>
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=65
+4, page=1, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
 <use PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, p
@@ -1290,7 +1364,7 @@ age 1>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-[16
+[27
 
 
 ]
@@ -1315,15 +1389,15 @@ age 1>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page1 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
- [17
+ [28
 
  <./PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>]
 
 pdfTeX warning: pdflatex.exe (file ./PDF_Includes/7c_SCiiSREC_Ethical Clearance
  Report 2026SCiiS024_Zulu.pdf): PDF inclusion: found PDF version <1.6>, but at 
 most version <1.5> allowed
-<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=60
-0, page=2, 597.55246pt x 845.07718pt>
+<PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, id=68
+9, page=2, 597.55246pt x 845.07718pt>
 File: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf G
 raphic file (type pdf)
 <use PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf, p
@@ -1345,16 +1419,16 @@ age 2>
 Package pdftex.def Info: PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026
 SCiiS024_Zulu.pdf , page2 used on input line 7.
 (pdftex.def)             Requested size: 537.79224pt x 760.56244pt.
-[18
+[29
 
  <./PDF_Includes/7c_SCiiSREC_Ethical Clearance Report 2026SCiiS024_Zulu.pdf>]) 
 (app2_sample_chapter.tex
 Appendix B.
-) (app3_sample_chapter.tex [19
+) (app3_sample_chapter.tex [30
 
 ]
 Appendix C.
-)) [20
+)) [31
 
 ] (main.aux (ch1_introduction.aux) (ch2_literature.aux)
 (ch3_methodology.aux) (ch4_results.aux) (ch5_discussion.aux)
@@ -1367,27 +1441,69 @@ L3 programming layer <2025-12-24>
 
 LaTeX Warning: There were undefined references.
 
-Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: D864BFC07CF9CBA70AA83DCF551AF386;5993.
 
-Package biblatex Warning: Please rerun LaTeX.
-(biblatex)                Page breaks have changed.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+
+Package rerunfilecheck Warning: File `main.out' has changed.
+(rerunfilecheck)                Rerun to get outlines right
+(rerunfilecheck)                or use package `bookmark'.
+
+Package rerunfilecheck Info: Checksums for `main.out':
+(rerunfilecheck)             Before: 41671EAA1CDB5E74B521EBCD56264FA8;7122
+(rerunfilecheck)             After:  40413A59A4D4EDDDDDBE33F7C1843D7F;10793.
+
+Package biblatex Warning: Please (re)run Biber on the file:
+(biblatex)                main
+(biblatex)                and rerun LaTeX afterwards.
 
 Package logreq Info: Writing requests to 'main.run.xml'.
 \openout1 = `main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 32520 strings out of 467871
- 611350 string characters out of 5418377
- 1645219 words of memory out of 5000000
- 60848 multiletter control sequences out of 15000+600000
+ 32587 strings out of 467871
+ 612657 string characters out of 5418377
+ 1645550 words of memory out of 5000000
+ 60876 multiletter control sequences out of 15000+600000
  637649 words of font info for 76 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  90i,18n,104p,2496b,5185s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
 pdfTeX warning (dest): name{glo:msa} has been referenced but does not exist, re
 placed by a fixed one
+
+
+pdfTeX warning (dest): name{appendix.75} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{appendix.73} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{appendix.72} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{section*.70} has been referenced but does not exist
+, replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.69} has been referenced but does not exist,
+ replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.68} has been referenced but does not exist,
+ replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.67} has been referenced but does not exist,
+ replaced by a fixed one
+
+
+pdfTeX warning (dest): name{chapter.66} has been referenced but does not exist,
+ replaced by a fixed one
 
  <C:\Users\bhuta\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm10
 95.pk><C:/Users/bhuta/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts
@@ -1406,9 +1522,9 @@ msfonts/cm/cmti10.pfb><C:/Users/bhuta/AppData/Local/Programs/MiKTeX/fonts/type1
 /public/amsfonts/cm/cmtt10.pfb><C:/Users/bhuta/AppData/Local/Programs/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmtt9.pfb><C:/Users/bhuta/AppData/Local/Programs/M
 iKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on main.pdf (43 pages, 2857446 bytes).
+Output written on main.pdf (55 pages, 2895884 bytes).
 PDF statistics:
- 714 PDF objects out of 1000 (max. 8388607)
- 144 named destinations out of 1000 (max. 500000)
- 359 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 815 PDF objects out of 1000 (max. 8388607)
+ 183 named destinations out of 1000 (max. 500000)
+ 383 words of extra memory for PDF output out of 10000 (max. 10000000)
 
