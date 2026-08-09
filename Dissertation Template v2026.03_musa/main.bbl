@@ -380,7 +380,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper investigates how trust in artificial intelligence (AI) influences its adoption in organizational settings, emphasizing the dynamic nature of attitudes towards AI. Using qualitative data from 29 interviews with AI developers, managers, and users, the study identifies three attitudinal positions: positive, negative, and instrumental. The findings reveal that attitudes towards AI are changing, often shifting from negative or instrumental to positive as individuals gain knowledge and experience with AI technologies. For example, we found evidence that instrumental attitudes, which require evidence before trust is established, become more positive when people become more familiar with AI. Negative attitudes, rooted in perceived threats like job displacement or privacy concerns, tend to shift when people begun to realize AI benefits. Building on organizational trust and trust in AI theory, this paper extends the understanding of differences in how AI developers, managers and users develop trust in AI.}
       \field{issn}{0040-1625}
       \field{journaltitle}{Technological Forecasting and Social Change}
       \field{title}{Shifting attitudes and trust in AI: Influences on organizational AI adoption}
@@ -1474,7 +1473,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Context: The last several years saw the emergence of AI assistants for code — multi-purpose AI-based helpers in software engineering. As they become omnipresent in all aspects of software development, it becomes critical to understand their usage patterns. Objective: We aim to better understand how specifically developers are using AI assistants, why they are not using them in certain parts of their development workflow, and what needs to be improved in the future. Methods: In this work, we carried out a large-scale survey aimed at how AI assistants are used, focusing on specific software development activities and stages. We collected opinions of 481 programmers on five broad activities: (a) implementing new features, (b) writing tests, (c) bug triaging, (d) refactoring, and (e) writing natural-language artifacts, as well as their individual stages. Results: Our results provide a novel comparison of different stages where AI assistants are used that is both comprehensive and detailed. It highlights specific activities that developers find less enjoyable and want to delegate to an AI assistant, e.g., writing tests and natural-language artifacts. We also determine more granular stages where AI assistants are used, such as generating tests and generating docstrings, as well as less studied parts of the workflow, such as generating test data. Among the reasons for not using assistants, there are general aspects like trust and company policies, as well as more concrete issues like the lack of project-size context, which can be the focus of the future research. Conclusion: The provided analysis highlights stages of software development that developers want to delegate and that are already popular for using AI assistants, which can be a good focus for features aimed to help developers right now. The main reasons for not using AI assistants can serve as a guideline for future work.}
       \field{issn}{0950-5849}
       \field{journaltitle}{Information and Software Technology}
       \field{title}{Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward}
@@ -1909,7 +1907,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{This paper investigates how trust in artificial intelligence (AI) influences its adoption in organizational settings, emphasizing the dynamic nature of attitudes towards AI. Using qualitative data from 29 interviews with AI developers, managers, and users, the study identifies three attitudinal positions: positive, negative, and instrumental. The findings reveal that attitudes towards AI are changing, often shifting from negative or instrumental to positive as individuals gain knowledge and experience with AI technologies. For example, we found evidence that instrumental attitudes, which require evidence before trust is established, become more positive when people become more familiar with AI. Negative attitudes, rooted in perceived threats like job displacement or privacy concerns, tend to shift when people begun to realize AI benefits. Building on organizational trust and trust in AI theory, this paper extends the understanding of differences in how AI developers, managers and users develop trust in AI.}
       \field{issn}{0040-1625}
       \field{journaltitle}{Technological Forecasting and Social Change}
       \field{title}{Shifting attitudes and trust in AI: Influences on organizational AI adoption}
@@ -3003,7 +3000,6 @@
       \true{uniqueprimaryauthor}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{abstract}{Context: The last several years saw the emergence of AI assistants for code — multi-purpose AI-based helpers in software engineering. As they become omnipresent in all aspects of software development, it becomes critical to understand their usage patterns. Objective: We aim to better understand how specifically developers are using AI assistants, why they are not using them in certain parts of their development workflow, and what needs to be improved in the future. Methods: In this work, we carried out a large-scale survey aimed at how AI assistants are used, focusing on specific software development activities and stages. We collected opinions of 481 programmers on five broad activities: (a) implementing new features, (b) writing tests, (c) bug triaging, (d) refactoring, and (e) writing natural-language artifacts, as well as their individual stages. Results: Our results provide a novel comparison of different stages where AI assistants are used that is both comprehensive and detailed. It highlights specific activities that developers find less enjoyable and want to delegate to an AI assistant, e.g., writing tests and natural-language artifacts. We also determine more granular stages where AI assistants are used, such as generating tests and generating docstrings, as well as less studied parts of the workflow, such as generating test data. Among the reasons for not using assistants, there are general aspects like trust and company policies, as well as more concrete issues like the lack of project-size context, which can be the focus of the future research. Conclusion: The provided analysis highlights stages of software development that developers want to delegate and that are already popular for using AI assistants, which can be a good focus for features aimed to help developers right now. The main reasons for not using AI assistants can serve as a guideline for future work.}
       \field{issn}{0950-5849}
       \field{journaltitle}{Information and Software Technology}
       \field{title}{Using AI-based coding assistants in practice: State of affairs, perceptions, and ways forward}
@@ -3076,7 +3072,6 @@
       \endverb
     \endentry
   \enddatalist
-  \missing{Sergeyuk2024}
 \endrefsection
 \endinput
 

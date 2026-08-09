@@ -1,23 +1,23 @@
 \contentsline {chapter}{Abstract}{i}{chapter*.1}%
-\contentsline {chapter}{Abstract}{ii}{chapter*.2}%
-\contentsline {chapter}{Problem Statement}{v}{chapter*.3}%
-\contentsline {chapter}{Research Objectives}{vii}{chapter*.4}%
-\contentsline {section}{\numberline {0.1}Main Research Objective}{vii}{section.5}%
-\contentsline {subsection}{\numberline {0.1.1}Sub Research Objectives}{vii}{subsection.6}%
-\contentsline {chapter}{Research Question(s)}{viii}{chapter*.7}%
-\contentsline {section}{\numberline {0.2}Main Research Question}{viii}{section.8}%
-\contentsline {subsection}{\numberline {0.2.1}Sub Research Questions}{viii}{subsection.9}%
-\contentsline {chapter}{Significance/rationale}{ix}{chapter*.10}%
-\contentsline {chapter}{Scope/Delimitation}{x}{chapter*.11}%
-\contentsline {chapter}{Delimitation}{xi}{chapter*.12}%
-\contentsline {chapter}{Brief Limitations}{xii}{chapter*.13}%
-\contentsline {chapter}{Key concepts / Definitions}{xiii}{chapter*.14}%
-\contentsline {chapter}{Theoretical / Conceptual framework}{xiv}{chapter*.16}%
-\contentsline {chapter}{Declaration}{xvi}{chapter*.18}%
-\contentsline {chapter}{Dedication}{xvii}{chapter*.19}%
-\contentsline {chapter}{Acknowledgements}{xviii}{chapter*.20}%
-\contentsline {chapter}{List of Acronyms}{xxii}{section*.23}%
-\contentsline {chapter}{List of Figures}{xxiii}{section*.24}%
+\contentsline {chapter}{Abstract}{iii}{chapter*.2}%
+\contentsline {chapter}{Problem Statement}{vi}{chapter*.3}%
+\contentsline {chapter}{Research Objectives}{viii}{chapter*.4}%
+\contentsline {section}{\numberline {0.1}Main Research Objective}{viii}{section.5}%
+\contentsline {subsection}{\numberline {0.1.1}Sub Research Objectives}{viii}{subsection.6}%
+\contentsline {chapter}{Research Question(s)}{ix}{chapter*.7}%
+\contentsline {section}{\numberline {0.2}Main Research Question}{ix}{section.8}%
+\contentsline {subsection}{\numberline {0.2.1}Sub Research Questions}{ix}{subsection.9}%
+\contentsline {chapter}{Significance/rationale}{x}{chapter*.10}%
+\contentsline {chapter}{Scope/Delimitation}{xi}{chapter*.11}%
+\contentsline {chapter}{Delimitation}{xii}{chapter*.12}%
+\contentsline {chapter}{Brief Limitations}{xiii}{chapter*.13}%
+\contentsline {chapter}{Key concepts / Definitions}{xiv}{chapter*.14}%
+\contentsline {chapter}{Theoretical / Conceptual framework}{xv}{chapter*.16}%
+\contentsline {chapter}{Declaration}{xvii}{chapter*.18}%
+\contentsline {chapter}{Dedication}{xviii}{chapter*.19}%
+\contentsline {chapter}{Acknowledgements}{xix}{chapter*.20}%
+\contentsline {chapter}{List of Acronyms}{xxiv}{section*.23}%
+\contentsline {chapter}{List of Figures}{xxv}{section*.24}%
 \contentsline {chapter}{\numberline {1}Introduction}{1}{chapter.26}%
 \contentsline {section}{\numberline {1.1}Section Heading}{1}{section.27}%
 \contentsline {subsection}{\numberline {1.1.1}Subsection Heading}{2}{subsection.28}%
@@ -51,11 +51,27 @@
 \contentsline {section}{\numberline {2.6}South African Context and Emerging Market Considerations.}{17}{section.81}%
 \contentsline {section}{\numberline {2.7}Synthesis and Research Gap.}{17}{section.82}%
 \contentsline {chapter}{\numberline {3}Research Methodology}{20}{chapter.83}%
-\contentsline {chapter}{\numberline {4}Results}{21}{chapter.84}%
-\contentsline {chapter}{\numberline {5}Discussion}{22}{chapter.85}%
-\contentsline {chapter}{\numberline {6}Conclusion}{23}{chapter.86}%
-\contentsline {chapter}{References}{24}{section*.87}%
-\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{28}{appendix.89}%
-\contentsline {chapter}{\numberline {B}Appendix Chapter}{31}{appendix.90}%
-\contentsline {section}{\numberline {B.1}Appendix section}{31}{section.91}%
-\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{32}{appendix.92}%
+\contentsline {section}{\numberline {3.1}Introduction}{20}{section.84}%
+\contentsline {section}{\numberline {3.2}Research Philosophy}{20}{section.85}%
+\contentsline {subsection}{\numberline {3.2.1}Post-positivist theory suits this research because it will: }{20}{subsection.86}%
+\contentsline {section}{\numberline {3.3}Research Design}{22}{section.87}%
+\contentsline {subsection}{\numberline {3.3.1}Quantitative Explanatory Design: }{22}{subsection.88}%
+\contentsline {section}{\numberline {3.4}Population and Sampling}{22}{section.89}%
+\contentsline {subsection}{\numberline {3.4.1}Target Population: }{22}{subsection.90}%
+\contentsline {subsection}{\numberline {3.4.2}Sampling Strategy: }{22}{subsection.91}%
+\contentsline {section}{\numberline {3.5}Measurement and Operationalization}{23}{section.92}%
+\contentsline {subsection}{\numberline {3.5.1}Organizational Culture: }{23}{subsection.93}%
+\contentsline {subsection}{\numberline {3.5.2}Leadership Practices: }{24}{subsection.94}%
+\contentsline {subsection}{\numberline {3.5.3}Effective Adoption: }{26}{subsection.95}%
+\contentsline {section}{\numberline {3.6}Data Collection}{27}{section.96}%
+\contentsline {section}{\numberline {3.7}Data Analysis}{28}{section.97}%
+\contentsline {section}{\numberline {3.8}Ethical Considerations}{30}{section.98}%
+\contentsline {section}{\numberline {3.9}Summary}{30}{section.99}%
+\contentsline {chapter}{\numberline {4}Results}{32}{chapter.100}%
+\contentsline {chapter}{\numberline {5}Discussion}{33}{chapter.101}%
+\contentsline {chapter}{\numberline {6}Conclusion}{34}{chapter.102}%
+\contentsline {chapter}{References}{35}{section*.103}%
+\contentsline {chapter}{\numberline {A}Ethical Clearance Certificate}{39}{appendix.105}%
+\contentsline {chapter}{\numberline {B}Appendix Chapter}{42}{appendix.106}%
+\contentsline {section}{\numberline {B.1}Appendix section}{42}{section.107}%
+\contentsline {chapter}{\numberline {C}Another Appendix Chapter}{43}{appendix.108}%
